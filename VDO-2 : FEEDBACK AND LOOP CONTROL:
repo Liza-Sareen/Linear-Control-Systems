@@ -1,0 +1,11 @@
+1.Feedback is very important in control systems, be it automatic or manual.
+2.What kind of feedback?
+You have a process to be controlled. It has an input and an output. Similar to the water level controller. Output is the value to be controlled and input is the variable through which we control output. Output is measured by a sensor and the measured value is compared with desired output. This is called feedback. Based on the difference between desired and actual, controller block decided what action should be taken. Actuator performs the action.
+
+EXAMPLE 1: Manual control of water
+Output: level of water
+Input: opening of valve
+sensor: eyes
+controller: brain that compares actual with desired
+actuator: hands
+
