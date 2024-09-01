@@ -1,0 +1,24 @@
+Linear Control Systems:
+TYPES OF CONTROL:
+1. Manual Control: The person is changing the position of the valve to control the water going outside. Like we do for tanks in homes. This is called manual control.
+2. Automatic Control:
+Control is done automatically without involvement of human being. This is done by using electronic circuits/mechanical arrangements/digital code.
+
+AUTOMATIC VS MANUAL
+1. Automatic is less costly as you have electronic circuits and you do not need to pay to the labour.
+2. Automatic is reliable because humans get tired, they take leaves, they have other tasks too and there is human error.
+3. Automatic is accurate. Human eye can measure liquid level but not as good as sensors.
+4. Automatic are accessible to every evt , those evt where humans cant go like space, nucleur, high temperatures.
+5. Automatic offers less waste and more production.
+
+HISTORY OF AUTOMATIC CONTROL:
+1. We are here automatically controlling liquid level in a tank. Water goes in by the inlet and leaves as steam. To control liquid level, we have arrangement of float, liver and valve. When water goes below desired level, the float drops and valve opens for inlet water. When water reaches desired level, valve is closed and float rises. 
+2. This is used in washrooms, Water clock, watt's flywheel.
+
+APPLICATIONS OF AUTOMATIC CONTROL SYSTEMS:
+1. Electronics Industry: to manufacture IC and electronic components. To be precise.
+2. Unmaned air vehicle: 
+3. Wind turbines: optimal orientation of blades to capture best wind w/o damaging turbine.
+4. Hard Disk used to fetch data
+5. Cars: sunroof open and close.
+6. Medical industry, robotics
